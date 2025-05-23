@@ -78,15 +78,15 @@
   ],
   "artifacts": [
     {
-      "hash": "9352a7ca790de197c46829fe8f755e71bd5713c8006a9f2d399b0e1004e28066",
+      "hash": "c48497ce2ac4171f6b31376e40400961bff5186943a93940255201b60c794e80",
       "name": "game-0.0.1.jar",
-      "path": "https://github.com/Mark7625/hosting/raw/master/hazy/live/repo/game-0.0.1.jar",
-      "size": 23738295
+      "path": "https://github.com/Mark7625/hosting/raw/master/hazy/client/live/repo/game-0.0.1.jar",
+      "size": 24512817
     },
     {
       "hash": "4c3f26bb52692cd1eea678cd42ba8f4943babf949b2022cd80498054afa18128",
       "name": "runelite-0.0.1.jar",
-      "path": "https://github.com/Mark7625/hosting/raw/master/hazy/live/repo/runelite-0.0.1.jar",
+      "path": "https://github.com/Mark7625/hosting/raw/master/hazy/client/live/repo/runelite-0.0.1.jar",
       "size": 20400213
     },
     {
@@ -512,7 +512,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "9352a7ca790de197c46829fe8f755e71bd5713c8006a9f2d399b0e1004e28066",
+    "game-0.0.1.jar": "c48497ce2ac4171f6b31376e40400961bff5186943a93940255201b60c794e80",
     "runelite-0.0.1.jar": "4c3f26bb52692cd1eea678cd42ba8f4943babf949b2022cd80498054afa18128",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
